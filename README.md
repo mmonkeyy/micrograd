@@ -1,5 +1,7 @@
 # Micrograd and makemore learning notebooks
 
+> **Status:** Backprop and bigram are implemented, with known bugs still to fix. The MLP notebook is in progress. See the limitations below.
+
 Python notebooks exploring scalar automatic differentiation, small neural networks, and character-level name models. These are tutorial learning exercises, not an original machine-learning framework or production-ready package.
 
 ## Files
